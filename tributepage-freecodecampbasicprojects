@@ -1,0 +1,20 @@
+<h1 class= "text-primary text-center">Neerja Bhanot</h1>
+<h2 class = "text-right">- A tribute to the girl who saved hundreds of lives</h2>
+<div class = "text-center">
+<img src = "https://everestalexander.files.wordpress.com/2015/04/neerjabhanotheroinepanamflight73.jpg" alt="a picture of Neerja" height = 700px width= 600px class=" img-responsive"></div>
+<div id = "text1">
+  <p>Let us have a look at the timeline of events of her life: </p>
+  <ul>
+    <li>BORN ON :07 September 1963 in Chandigarh, Punjab, India</li>
+    <li>She completed her high school fromBombay Scottish School and graduated from St. Xavier’s College. She was a vivacious young girl, sensitive, caring, and cheerful.</li>
+    <li>She got married shortly after her graduation, but the marriage proved to be a disaster. After being abused by her husband for dowry, she separated from him and focused her efforts on building a successful career for herself.</li>
+    <li>Pretty and confident, she undertook some modeling assignments and appeared in many television commercials and print advertisements for companies such as Benzersarees, Binaca toothpaste, Godrej Besto detergent, Vaporex, and Vicco Turmeric cream.</li>
+    <li>She then applied for a flight attendant's job with Pam Am, the principal and largest international air carrier in the United States at that time. There were nearly 10,000 applications, but Neerja was easily selected among the top 80.</li>
+    <li>She was sent to Miami for training as a flight attendant and impressed her training instructors with her courage and zeal. She was soon made a senior flight purser with the airways—a big career achievement for a young woman of 22.</li>
+  </ul>
+  <h3 class = "text-center text-primary">Awards and Achievements</h3>
+  <ol>
+    <li>Ashoka Chakra Award (India's highest gallantry award for bravery in the face of the enemy during peace time)</li>
+    <li>In 2005, her brother went to Washington DC to receive the 'Justice for Crimes Award' awarded posthumously to her as part of the 'Annual Crime Rights Week'.
+    </li>
+    <button class= "btn btn-info"><a rel="nofollow" rel="noreferrer"href ="https://en.wikipedia.org/wiki/Neerja_Bhanot target="blank">Know more</a></button>
